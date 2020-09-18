@@ -1,0 +1,11 @@
+title: RDambrosio
+email: rdambrosio016@gmail.com
+url: "https://RDambrosio016.github.io"
+github_username:  RDambrosio016
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  
