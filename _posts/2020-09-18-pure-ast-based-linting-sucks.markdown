@@ -9,7 +9,7 @@ First blog post! For this blog post i would like to talk about various issues ar
 
 This post mostly refers to the issues with pure typed AST based linting in statically typed languages such as rust, However, most of the issues occur in dynamically typed languages too.
 
-I will be giving a small introduction to how linters work, feel free to skip to the [Problems with ASTs](#Problems-with-ASTs) if you already know how linters work.
+I will be giving a small introduction to how linters work, feel free to skip to the [Problems with ASTs](#problems-with-asts) if you already know how linters work.
 
 # Table of contents
 
